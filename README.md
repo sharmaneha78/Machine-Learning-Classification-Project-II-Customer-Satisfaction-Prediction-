@@ -1,0 +1,2 @@
+# Machine-Learning-Classification-Project-II-Customer-Satisfaction-Prediction-
+A machine learning project that predicts customer satisfaction levels using behavioral, service-based, and product-related attributes. Includes complete data preprocessing, exploratory data analysis, feature engineering, model building, and insights to help businesses understand key factors influencing customer satisfaction.
