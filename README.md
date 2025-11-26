@@ -140,3 +140,13 @@ The dataset contains customer usage behavior, feedback responses, service qualit
 - Dashboard monitoring with Power BI or Tableau
 
 ---
+🛠 Tech Stack
+| Category      | Tools                                                     |
+| ------------- | --------------------------------------------------------- |
+| Language      | Python                                                    |
+| Libraries     | Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn |
+| Notebook      | Jupyter                                                   |
+| Visualization | Seaborn & Matplotlib                                      |
+## 👩‍💻 Project By: Neha Sharma
+
+- Machine Learning & Data Science Enthusiast
